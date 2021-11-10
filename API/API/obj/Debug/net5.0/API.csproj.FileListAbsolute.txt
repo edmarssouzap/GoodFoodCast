@@ -1,0 +1,677 @@
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\appsettings.Development.json
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\appsettings.json
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\API.exe
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\API.deps.json
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\API.runtimeconfig.json
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\API.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\ref\API.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\API.pdb
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Humanizer.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\obj\Debug\net5.0\API.csproj.CopyComplete
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\obj\Debug\net5.0\API.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\obj\Debug\net5.0\ref\API.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\obj\Debug\net5.0\API.pdb
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\System.Composition.Convention.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\System.Composition.Hosting.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\System.Composition.Runtime.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\System.Composition.TypedParts.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\PROJECTS\Asp.Net Core\Asp.NetCoreWebApiWithAngular\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\appsettings.json
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\API.exe
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\API.deps.json
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\API.runtimeconfig.json
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\API.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\ref\API.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\API.pdb
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\obj\Debug\net5.0\API.csproj.AssemblyReference.cache
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\obj\Debug\net5.0\API.csproj.CopyComplete
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\obj\Debug\net5.0\API.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\obj\Debug\net5.0\ref\API.dll
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\obj\Debug\net5.0\API.pdb
+C:\Users\Zakaria\Desktop\Projects\RestaurantMasterDetailsApp\API\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\appsettings.Development.json
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\appsettings.json
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\appsettingsEzequiel.json
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\API.exe
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\API.deps.json
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\API.runtimeconfig.json
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\API.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\ref\API.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\API.pdb
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\Humanizer.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\obj\Debug\net5.0\API.csproj.AssemblyReference.cache
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\obj\Debug\net5.0\API.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\obj\Debug\net5.0\ref\API.dll
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\obj\Debug\net5.0\API.pdb
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+C:\APIdosOUTROS\GoodFood\GoodFood\API\API\obj\Debug\net5.0\API.csproj.CopyComplete
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\appsettings.Development.json
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\appsettings.json
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\appsettingsEzequiel.json
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\API.exe
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\API.deps.json
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\API.runtimeconfig.json
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\API.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\ref\API.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\API.pdb
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\Humanizer.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\obj\Debug\net5.0\API.csproj.AssemblyReference.cache
+C:\APIdosOUTROS\teste\GoodFood\API\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\APIdosOUTROS\teste\GoodFood\API\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+C:\APIdosOUTROS\teste\GoodFood\API\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+C:\APIdosOUTROS\teste\GoodFood\API\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+C:\APIdosOUTROS\teste\GoodFood\API\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\APIdosOUTROS\teste\GoodFood\API\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\APIdosOUTROS\teste\GoodFood\API\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+C:\APIdosOUTROS\teste\GoodFood\API\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+C:\APIdosOUTROS\teste\GoodFood\API\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+C:\APIdosOUTROS\teste\GoodFood\API\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+C:\APIdosOUTROS\teste\GoodFood\API\API\obj\Debug\net5.0\API.csproj.CopyComplete
+C:\APIdosOUTROS\teste\GoodFood\API\API\obj\Debug\net5.0\API.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\obj\Debug\net5.0\ref\API.dll
+C:\APIdosOUTROS\teste\GoodFood\API\API\obj\Debug\net5.0\API.pdb
+C:\APIdosOUTROS\teste\GoodFood\API\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\appsettings.Development.json
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\appsettings.json
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\appsettingsEzequiel.json
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\API.exe
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\API.deps.json
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\API.runtimeconfig.json
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\API.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\ref\API.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\API.pdb
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\Humanizer.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\obj\Debug\net5.0\API.csproj.AssemblyReference.cache
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\obj\Debug\net5.0\API.csproj.CopyComplete
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\obj\Debug\net5.0\API.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\obj\Debug\net5.0\ref\API.dll
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\obj\Debug\net5.0\API.pdb
+C:\APIdosOUTROS\GoodFood2\GoodFood\API\API\obj\Debug\net5.0\API.genruntimeconfig.cache

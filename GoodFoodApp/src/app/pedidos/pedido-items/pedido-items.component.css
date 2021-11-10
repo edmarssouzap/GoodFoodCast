@@ -1,0 +1,35 @@
+
+.menu, .campo {
+  color: black;
+}
+
+.enviar, .fechar {
+  background-color: #212121;
+  color: white;
+}
+
+.fechar {
+  border: 1px solid black;
+}
+
+.enviar:hover {
+  background-color: cyan;
+  color: black;
+}
+
+.fechar:hover {
+  background-color: red;
+  color: black;
+}
+
+button {
+  height: 40px;
+}
+
+button:hover {
+  border-radius: 15px;
+}
+
+label {
+  margin: 10px;
+}

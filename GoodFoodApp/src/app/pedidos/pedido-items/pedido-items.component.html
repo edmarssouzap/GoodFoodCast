@@ -1,0 +1,86 @@
+
+<div class="formComida">
+
+<h2 class="display 4">Pedir comida</h2>
+<hr/>
+
+<form #form="ngForm" autocomplete="off" (ngSubmit)="onSubmit(form)">
+  <input type="hidden" name="pedidoItemId" #pedidoItemId="ngModel"
+    [(ngModel)]="formDados.pedidoItemId"
+    class="form-control" />
+
+  <input type="hidden" name="pedidoId" #pedidoId="ngModel"
+    [(ngModel)]="formDados.pedidoId"
+    class="form-control"/>
+
+  <input type="hidden" name="itemNome" #itemNome="ngModel"
+    [(ngModel)]="formDados.itemNome"
+    class="form-control"/>
+
+  <div class="form-roup">
+    <label><span> Itens</span></label>
+
+    <select name="itemId" #itemId="ngModel"
+      [(ngModel)]="formDados.itemId"
+      class="form-control"
+      (change)="atualizarPreco($event.target)"
+      [class.is-invalid]="!eValido && formDados.itemId == 0">
+
+      <option value="0"><span>--selecionar--</span></option>
+      <option *ngFor="let item of listaItem" value="{{ item.itemId }}">
+       <span> {{ item.nome }} </span>
+      </option>
+    </select>
+  </div>
+
+  <div class="form-row">
+    <div class="form-group col-md-6">
+      <label><span>Preço</span></label>
+      <div class="input-group mb-2">
+        <div class="input-group-prepend">
+          <div class="input-group-text">$</div>
+        </div>
+
+        <input name="price" #preco="ngModel" [(ngModel)]="formDados.preco"
+          class="form-control" readonly/>
+      </div>
+    </div>
+
+    <div class="form-group col-md-6">
+      <label><span>Quantidade</span></label>
+
+      <input name="quantidade" #quantidade="ngModel"
+        [(ngModel)]="formDados.quantidade"
+        class="form-control"
+        (keyup)="atualizarTotal()"
+        [class.is-invalid]="!eValido && formDados.quantidade == 0"/>
+    </div>
+  </div>
+
+  <div class="form-group">
+    <label><span>Total</span></label>
+
+    <div class="input-group mb-2">
+      <div class="input-group-prepend">
+        <div class="input-group-text">$</div>
+      </div>
+
+      <input name="total" #total="ngModel"
+        [(ngModel)]="formDados.total"
+        class="form-control" readonly/>
+    </div>
+  </div>
+
+  <div class="form-group">
+
+    <button class="btn btn-dark enviar" type="submit">
+      <i class="fa fa-database"></i> <b> Enviar</b>
+    </button>
+
+    <button class="btn btn-otlinedark ml-1 fechar" type="button" [mat-dialog-close]>
+      <i class="fa fa-close"></i> <b> Fechar</b>
+    </button>
+
+  </div>
+</form>
+</div>

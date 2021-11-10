@@ -1,0 +1,23 @@
+span {
+  font-size: 20px;
+}
+
+span[class^="white"] {
+  color: aliceblue;
+}
+
+span[class^="black"], select option {
+  color: black;
+  font-size: 20px;
+}
+
+/* Define a largura do formulario na tela */
+form {
+  padding: 110px 250px;
+}
+
+@media (max-width: 568px) {
+  form {
+    padding: 110px 0;
+  }
+}

@@ -1,0 +1,22 @@
+span[class^="white"] {
+  color: white;
+  font-weight: bold;
+}
+
+/* Define a largura da tabela na tela */
+.tabela {
+  margin: 110px 250px;
+  background-color: #1a1a1a;
+}
+
+.textoCampo {
+  color: black;
+  font-weight: bold;
+}
+
+/* Mantem responsividade da tela */
+@media (max-width: 568px) {
+  .tabela {
+    margin: 110px 0;
+  }
+}

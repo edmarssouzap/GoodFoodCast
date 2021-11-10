@@ -1,0 +1,24 @@
+● src
++---● app
+|   +--● pedidos
+|   |  |--pedidos.component.ts|.html|.css
+|   |  +--● pedido
+|   |  |  |--pedido.component.ts|.html|.css
+|   |  +--● pedido-items
+|   |  |  |--pedido-items.component.ts|.html|.css
+|   |  |
+|   |  +--● shared
+|   |     |--cliente.model.ts
+|   |     |--cliente.service.ts
+|   |     |--item.model.ts
+|   |     |--item.service.ts
+|   |     |--pedido-item.model.ts
+|   |     |--pedido.model.ts
+|   |     |--pedido.service.ts
+|   |
+|   |--app.module.ts
+|
++---● environments
+|   |--environment.ts (saved apiUrl)
+|
+|--index.html (cdn path for bootstrap and font awesome icon)

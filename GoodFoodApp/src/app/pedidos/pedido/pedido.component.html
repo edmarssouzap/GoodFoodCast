@@ -1,0 +1,118 @@
+<form #form="ngForm" autocomplete="off" *ngIf="pedidoService.formDados" (submit)="onSubmit(form)">
+
+  <input type="hidden" name="pedidoId" #pedidoId="ngModel" [(ngModel)]="pedidoService.formDados.pedidoId">
+
+  <div class="row">
+    <div class="col-md-6">
+
+      <div class="form-group">
+        <label><span class="white"> Número do Pedido.</span></label>
+        <div class="input-group mb-2">
+
+          <div class="input-group-prepend">
+            <div class="input-group-text">#</div>
+          </div>
+
+          <input name="numeroPedido" #numeroPedido="ngModel" [(ngModel)]="pedidoService.formDados.numeroPedido"
+            class="form-control" readonly />
+        </div>
+
+      </div>
+
+      <div class="form-group">
+        <label><span class="white">Cliente</span></label>
+
+        <select name="clienteId" #clienteId="ngModel" [(ngModel)]="pedidoService.formDados.clienteId"
+          class="form-control" [class.is-invalid]="!eValido && pedidoService.formDados.clienteId == 0">
+
+          <option value="0">--selecionar--</option>
+          <option *ngFor="let cliente of clienteList" value="{{ cliente.clienteId }}">
+            {{ cliente.nome }}
+          </option>
+        </select>
+
+      </div>
+    </div>
+
+    <div class="col-md-6">
+      <div class="form-group">
+
+        <label><span class="white">Meio de Pagamento</span></label>
+
+        <select name="meioPagamento" #meioPagamento="ngModel" [(ngModel)]="pedidoService.formDados.meioPagamento"
+          class="form-control" [class.is-invalid]="!eValido && pedidoService.formDados.meioPagamento === ''">
+          <option value="">--selecionar--</option>
+          <option value="Dinheiro">Dinheiro</option>
+          <option value="Cartao">Cartão</option>
+        </select>
+
+      </div>
+
+      <div class="form-group">
+        <label><span class="white">Total Geral</span></label>
+        <div class="input-group mb-2">
+          <div class="input-group-prepend">
+            <div class="input-group-text">$</div>
+          </div>
+
+          <input name="gtotal" #valorTotal="ngModel" [(ngModel)]="pedidoService.formDados.valorTotal"
+            class="form-control" readonly />
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- Tabela de pedido de items -->
+  <table class="table table-borderless">
+    <thead class="thead-light">
+      <th><span class="black">Comida</span></th>
+      <th><span class="black">Preço</span></th>
+      <th><span class="black">Quantidade</span></th>
+      <th><span class="black">Total</span></th>
+      <th>
+        <a (click)="AdicionarOuEditarItemPedido(null, pedidoService.formDados.pedidoId)"
+          class="btn btn-sm btn-success text-white">
+          <i class="fa fa-plus"></i><span>Adicionar Item</span>
+        </a>
+      </th>
+    </thead>
+
+    <tbody>
+      <tr *ngIf="pedidoService.pedidoItems.length == 0"
+        [class.text-danger]="!eValido && pedidoService.pedidoItems.length == 0">
+
+        <td class="font-italic text-center" colspan="5">
+          <span class="white">Nenhum item selecionado para pedido</span>
+        </td>
+      </tr>
+
+      <tr *ngFor="let item of pedidoService.pedidoItems; let i = index">
+        <td><span class="white">{{ item.itemNome }}</span></td>
+        <td><span class="white">{{ item.preco }}</span></td>
+        <td><span class="white">{{ item.quantidade }}</span></td>
+        <td><span class="white">{{ item.total }}</span></td>
+        <td>
+          <a (click)="AdicionarOuEditarItemPedido(i, pedidoService.formDados.pedidoId)" class="btn btn-sm btn-info text-white">
+
+            <i class="fa fa-pencil"></i>
+          </a>
+
+          <a (click)="onDeletarItemPedido(item.pedidoItemId, i)" class="btn btn-sm btn-danger ml-1 text-white">
+            <i class="fa fa-trash"></i></a>
+        </td>
+      </tr>
+
+    </tbody>
+  </table>
+
+  <div class="form-group mt-md-2">
+    <button class="btn btn-dark" type="submit">
+      <i class="fa fa-database"></i><span>  Enviar</span>
+    </button>
+
+    <a class="btn btn-dark ml-1" routerLink='/pedidos'>
+      <i class="fa fa-table"></i><span>  Detalhes dos pedidos</span>
+    </a>
+  </div>
+</form>

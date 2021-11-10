@@ -1,0 +1,133 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: linear-gradient(to right, #b92b27, #1565c0)
+}
+
+.card {
+  margin-bottom: 20px;
+  border: none;
+}
+
+.box {
+  width: 500px;
+  padding: 0 40px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  background: #212121;
+  text-align: center;
+  transition: 0.25s;
+  margin-top: 110px;
+}
+
+/* Contra responsividade do elemento principal na tela */
+@media (max-width: 800px) {
+  .box {
+    margin: 110px 0;
+    padding: 0;
+    left: 0;
+  }
+}
+
+.box {
+  font-size: 23px;
+}
+
+/* Sobreescrevendo a classe .box que esta em /style.css */
+.box input[type="text"],
+.box input[type="submit"],
+.box input[type="password"] {
+  width: 270px;
+}
+
+.box button[type="submit"] {
+  width: 180px;
+}
+
+.box input[type="text"]:focus,
+.box input[type="password"]:focus,
+.box button[type="text"]:focus,
+.box button[type="password"]:focus {
+  width: 410px;
+  border-color: #40cc2e
+}
+
+p[class="text-muted"] {
+  font-size: 25px;
+}
+
+p[class^="h1"] {
+  color: white;
+  text-transform: uppercase;
+  font-weight: 500
+}
+
+.forgot {
+  text-decoration: underline
+}
+
+ul.social-network {
+  list-style: none;
+  display: inline;
+  margin-left: 0 !important;
+  padding: 0
+}
+
+ul.social-network li {
+  display: inline;
+  margin: 0 5px
+}
+
+.social-network a.icoFacebook:hover {
+  background-color: #3B5998
+}
+
+.social-network a.icoTwitter:hover {
+  background-color: #33ccff
+}
+
+.social-network a.icoGoogle:hover {
+  background-color: #BD3518
+}
+
+.social-network a.icoFacebook:hover i,
+.social-network a.icoTwitter:hover i,
+.social-network a.icoGoogle:hover i {
+  color: #fff
+}
+
+a.socialIcon:hover,
+.socialHoverClass {
+  color: #44BCDD
+}
+
+.social-circle li a {
+  display: inline-block;
+  position: relative;
+  margin: 0 auto 0 auto;
+  border-radius: 50%;
+  text-align: center;
+  width: 50px;
+  height: 50px;
+  font-size: 20px
+}
+
+.social-circle li i {
+  margin: 0;
+  line-height: 50px;
+  text-align: center
+}
+
+.social-circle li a:hover i,
+.triggeredHover {
+  transform: rotate(360deg);
+  transition: all 0.2s
+}
+
+.social-circle i {
+  color: #fff;
+  transition: all 0.8s;
+  transition: all 0.8s
+}

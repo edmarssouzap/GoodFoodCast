@@ -1,0 +1,70 @@
+<div id="divPrincipal">
+
+  <div class="row">
+    <div class="col-md-12">
+
+      <!-- Logo da aplicação -->
+      <h3 class="display-4 text-center">
+        <br>
+        <img src="/assets/img/food.png" alt="GoodFoodApp" />
+
+        <!-- Mantem o logo no centro da tela - POC -->
+        <span id="textoinvisivel">GoodFood</span>
+      </h3>
+
+    </div>
+
+    <!-- SideBar -->
+    <nav id="sidebar">
+
+      <div class="sidebar-container" id="sidebarEstilo">
+        <div class="sidebar-logo">
+          <span id="nomeUsuario">Edmar</span>
+        </div>
+
+        <ul class="sidebar-navigation">
+          <li class="header"><span>Menu</span></li>
+          <li>
+            <a routerLink="cliente" routerLinkActive="active">
+              <i class="fa fa-user-plus" aria-hidden="true"></i> <span>Cadastrar Cliente</span>
+            </a>
+          </li>
+          <li>
+            <a routerLink="empregado" routerLinkActive="active">
+              <i class="fa fa-users" aria-hidden="true"></i><span>Cadastrar Empregado</span>
+            </a>
+          </li>
+
+          <li>
+            <a routerLink="pedido" routerLinkActive="active">
+              <i class="fa fa-users" aria-hidden="true"></i><span>Realizar Pedido</span>
+            </a>
+          </li>
+
+          <li>
+            <a routerLink="pedidos" routerLinkActive="active">
+              <i class="fa fa-users" aria-hidden="true"></i><span>Detalhes dos Pedidos</span>
+            </a>
+          </li>
+
+          <!--Implementar se houver tempo-->
+          <li>
+            <a routerLink="pedidos" routerLinkActive="active">
+              <i class="fa fa-users" aria-hidden="true"></i><span>Relatório de Vendas (PDF)</span>
+            </a>
+          </li>
+
+          <li id="sair">
+            <a routerLink="login" routerLinkActive="active">
+              <i class="fa fa-sign-out" aria-hidden="true"></i><span> Sair </span>
+            </a>
+          </li>
+          <!-- <router-outlet></router-outlet> -->
+        </ul>
+      </div>
+    </nav>
+
+  </div>
+
+  <router-outlet></router-outlet>
+</div>

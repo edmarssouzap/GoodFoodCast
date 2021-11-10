@@ -1,0 +1,64 @@
+/* You can add global styles to this file, and also import other style files */
+.form-control,
+.input-group-text {
+  border: 1px solid #0080ff;
+}
+
+table.table-hover tboday tr:hover {
+  cursor: pointer;
+}
+
+html, body {
+  height: 100%;
+  background-color: #212121;
+}
+
+body {
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+span {
+  font-size: 20px;
+}
+
+
+
+/* As classes abaixo servira para os input e button de todo o projeto. Isso reduz codigo desnecessario */
+/* Esses efeitos serve para os componentes (cadastrocliente e cadastroempregado) */
+
+.box input[type="text"],
+.box input[type="submit"],
+.box button[type="submit"],
+.box input[type="password"] {
+  border: 0;
+  background: none;
+  display: block;
+  margin: 20px auto;
+  text-align: center;
+  border: 2px solid #34dbd3;
+  padding: 10px 10px;
+  width: 250px;
+  outline: none;
+  color: white;
+  border-radius: 24px;
+  transition: 0.25s
+}
+
+.box input[type="submit"],
+.box button[type="submit"] {
+  cursor: pointer;
+}
+
+.box input[type="text"]:focus,
+.box input[type="password"]:focus,
+.box button[type="text"]:focus,
+.box button[type="password"]:focus {
+  width: 410px;
+  border-color: #40cc2e
+}
+
+.box input[type="submit"]:hover,
+.box button[type="submit"]:hover {
+  background: #4e9654
+}
