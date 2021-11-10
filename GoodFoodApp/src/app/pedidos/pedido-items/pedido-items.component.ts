@@ -76,7 +76,7 @@ export class PedidoItemsComponent implements OnInit {
   validarForm(formDados: PedidoItem) {
     this.eValido = true;
     if (formDados.itemId == 0) this.eValido = false;
-    else if (formDados.quantidade == 0 || formDados.quantidade < 0) this.eValido = false;
+    else if (formDados.quantidade <= 0) this.eValido = false;
     return this.eValido;
   }
 }

@@ -41,7 +41,7 @@
           <div class="input-group-text">$</div>
         </div>
 
-        <input name="price" #preco="ngModel" [(ngModel)]="formDados.preco"
+        <input name="preco" #preco="ngModel" [(ngModel)]="formDados.preco"
           class="form-control" readonly/>
       </div>
     </div>
@@ -53,7 +53,7 @@
         [(ngModel)]="formDados.quantidade"
         class="form-control"
         (keyup)="atualizarTotal()"
-        [class.is-invalid]="!eValido && formDados.quantidade == 0"/>
+        [class.is-invalid]="!eValido && formDados.quantidade <= 0"/>
     </div>
   </div>
 
