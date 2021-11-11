@@ -13,13 +13,13 @@
 }
 
 .enviar:hover {
-  background-color: cyan;
-  color: black;
+  background-color: green;
+  color: aliceblue;
 }
 
 .fechar:hover {
-  background-color: red;
-  color: black;
+  background-color: crimson;
+  color: aliceblue;
 }
 
 button {

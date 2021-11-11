@@ -24,3 +24,16 @@ tbody tr:hover {
     margin: 110px 0;
   }
 }
+
+#botaoCriar {
+  background-color: #28a745;
+  color: aliceblue;
+}
+
+#botaoCriar {
+  background-color: #28a745;
+}
+
+#botaoCriar:hover {
+  background-color: green;
+}

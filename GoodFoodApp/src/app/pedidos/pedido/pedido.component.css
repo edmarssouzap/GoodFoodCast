@@ -11,6 +11,15 @@ span[class^="black"], select option {
   font-size: 20px;
 }
 
+#adicionarItem {
+  background-color: #28a745;
+  color: aliceblue;
+}
+
+#adicionarItem:hover {
+  background-color: green;
+}
+
 /* Define a largura do formulario na tela */
 form {
   padding: 110px 250px;
