@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BAhAd2EgB4uKIIfwouwWgY2edBr+dZ+/q2ndlz5arRl1ikAxeMYO9Nrw07IlpJ04KwsGo9+vhu0RqZZZJYyJFw==",
+  "dgSpecHash": "/nwVS3xfYv/EI/GD7mj8LoZ1gkbs60mx7wcTgtOe1Q1Z7AB6Si8xJrWV0DinBqRsGAmQAfn6FXFbJzcdGHcp7w==",
   "success": true,
-  "projectFilePath": "C:\\APIdosOUTROS\\GoodFood2\\GoodFood\\API\\API\\API.csproj",
+  "projectFilePath": "C:\\APIdosOUTROS\\GoodFoodCast\\API\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\edmar\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\edmar\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

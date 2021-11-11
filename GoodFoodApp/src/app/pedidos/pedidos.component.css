@@ -9,6 +9,10 @@ span[class^="white"] {
   background-color: #1a1a1a;
 }
 
+tbody tr:hover {
+  background-color:gray;
+}
+
 .textoCampo {
   color: black;
   font-weight: bold;

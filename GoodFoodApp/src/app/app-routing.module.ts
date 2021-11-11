@@ -31,7 +31,6 @@ const routes: Routes = [
     path: '**', component: NotFoundComponent
   } // Pagina nao encontrada - 404
 
-  //{ path: '', redirectTo: 'pedido', pathMatch: 'full' },
 ];
 
 @NgModule({
