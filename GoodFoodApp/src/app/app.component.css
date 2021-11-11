@@ -16,7 +16,7 @@
 } */
 
 #sidebar {
-  display: none;
+  display: hidden;
 }
 
 #sidebarEstilo {
