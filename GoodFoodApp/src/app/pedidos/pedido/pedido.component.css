@@ -20,6 +20,21 @@ span[class^="black"], select option {
   background-color: green;
 }
 
+#botaoEnviar {
+  background-color: #28a745;
+  color: aliceblue;
+}
+
+#botaoEnviar:hover {
+  background-color: #3dd661;
+  color: black;
+}
+
+#botaoDetalhe:hover {
+  background-color: #34dbd3;
+  color: black;
+}
+
 /* Define a largura do formulario na tela */
 form {
   padding: 110px 250px;
