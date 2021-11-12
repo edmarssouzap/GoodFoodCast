@@ -19,6 +19,13 @@
   display: hidden;
 }
 
+/* Some com a sidebar em telas pequenas. O objetivo é trocar essa funcionalidade por um menu hamburguer */
+@media (max-width: 600px) {
+  #sidebar {
+    display: none;
+  }
+}
+
 #sidebarEstilo {
   position: fixed;
   z-index: 100;

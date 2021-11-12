@@ -1,10 +1,10 @@
 import { Component, Inject, OnInit } from '@angular/core';
 import { MatDialogRef, MAT_DIALOG_DATA } from '@angular/material/dialog';
-import { Item } from 'src/app/shared/item.model';
-import { ItemService } from 'src/app/shared/item.service';
-import { PedidoItem } from 'src/app/shared/pedido-item.model';
+import { Item } from 'src/app/shared/model/item.model';
+import { ItemService } from 'src/app/shared/services/item.service';
+import { PedidoItem } from 'src/app/shared/model/pedido-item.model';
 import { NgForm } from '@angular/forms';
-import { PedidoService } from 'src/app/shared/pedido.service';
+import { PedidoService } from 'src/app/shared/services/pedido.service';
 
 @Component({
   selector: 'app-pedido-items',

@@ -10,21 +10,29 @@ export class LoginService {
 
   constructor(private http: HttpClient) {}
 
-  getLoginList() {
+  obterListaLogin () {
     // Faz um GET na URL do servidor API: https://localhost:44312/api/Logins
     return this.http.get(environment.apiURL + '/Logins');
   }
 
-  validationLogin(Usuario: string, Senha: string) {
-    // Comando para realizar o debug dos dados com a ferramenta de desenvolvedor aberta - Vai pausar aqui
-    debugger;
-    const obj = {
-      usuario: Usuario,
-      senha: Senha,
-    };
+  // Login Local
+  login (usuario: any, senha: any) {
+    return new Promise ((resolve) => {
+      window.localStorage.setItem('token', 'admin');
+      resolve(true);
+    });
+  }
 
-    // Apagar essa linha para que o usuario e senha nao seja imprimindo no console web
-    console.log("EdmarLoginTeste: " + obj);
+
+
+  // Login Remoto
+  login2(User: string, Password: string): void {
+    // Comando para realizar o debug dos dados com a ferramenta de desenvolvedor aberta - Vai pausar aqui
+    // debugger;  // <- Este é um comando do javascript/typescript para depuração
+    const obj = {
+      usuario: User,
+      senha: Password,
+    };
 
     // Linha que realiza o POST no servidor API e retorna um Array da tabela Login do SQL Server
     this.http

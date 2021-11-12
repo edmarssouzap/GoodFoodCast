@@ -15,11 +15,11 @@
     </div>
 
     <!-- SideBar -->
-    <nav id="sidebar">
+    <nav id="sidebar" *ngIf="verificaAutenticacao()">
 
       <div class="sidebar-container" id="sidebarEstilo">
         <div class="sidebar-logo">
-          <span id="nomeUsuario">Edmar</span>
+          <span id="nomeUsuario">{{this.loginService.login.usuario}}</span> <!---->
         </div>
 
         <ul class="sidebar-navigation">
@@ -55,7 +55,7 @@
           </li>
 
           <li id="sair">
-            <a routerLink="login" routerLinkActive="active">
+            <a routerLink="login" routerLinkActive="active" (click)="removerToken()">
               <i class="fa fa-sign-out" aria-hidden="true"></i><span> Sair </span>
             </a>
           </li>

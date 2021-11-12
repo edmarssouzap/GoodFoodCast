@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
-import { PedidoService } from '../shared/pedido.service';
+import { PedidoService } from '../shared/services/pedido.service';
 import { ToastrService } from 'ngx-toastr';
 
 @Component({
@@ -17,22 +17,14 @@ export class PedidosComponent implements OnInit {
   ) {}
 
   ngOnInit(): void {
-    // Apagar essa linha após finalizar os testes de login
-    console.log ("EdmarRefreshList: " + this.atualizarLista());
     this.atualizarLista();
   }
 
   atualizarLista() {
     this.pedidoService
       .obterListaDePedidos()
-      // .subscribe((res) => (this.pedidoList = res));
       .subscribe((res) => (
-        console.log(this.pedidoList = res)));
-        // this.pedidoList = res));
-
-      // Apagar essas duas linhas apos a implementacao de login finalizar
-      console.log("EdmarGetOrdersList: " + this.pedidoService.obterListaDePedidos())
-      console.log("EdmarSubscribe: " + this.pedidoService.obterListaDePedidos().subscribe())
+         this.pedidoList = res));
   }
 
   abrirParaEdicao(pedidoId: number) {

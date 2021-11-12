@@ -7337,11 +7337,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\APIdosOUTROS\\GoodFoodCast\\API\\API\\API.csproj",
+      "projectUniqueName": "C:\\APIdosOUTROS\\GoodFoodCast\\GoodFoodCast\\API\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\APIdosOUTROS\\GoodFoodCast\\API\\API\\API.csproj",
+      "projectPath": "C:\\APIdosOUTROS\\GoodFoodCast\\GoodFoodCast\\API\\API\\API.csproj",
       "packagesPath": "C:\\Users\\edmar\\.nuget\\packages\\",
-      "outputPath": "C:\\APIdosOUTROS\\GoodFoodCast\\API\\API\\obj\\",
+      "outputPath": "C:\\APIdosOUTROS\\GoodFoodCast\\GoodFoodCast\\API\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

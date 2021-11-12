@@ -1,13 +1,13 @@
-import { Pedido } from './../../shared/pedido.model';
+import { Pedido } from '../../shared/model/pedido.model';
 import { identifierModuleUrl } from '@angular/compiler';
 import { Component, OnInit } from '@angular/core';
 import { NgForm } from '@angular/forms';
 import { MatDialog, MatDialogConfig } from '@angular/material/dialog';
 import { ActivatedRoute, Router } from '@angular/router';
 import { ToastrService } from 'ngx-toastr';
-import { Cliente } from 'src/app/shared/cliente.model';
-import { ClienteService } from 'src/app/shared/cliente.service';
-import { PedidoService } from 'src/app/shared/pedido.service';
+import { Cliente } from 'src/app/shared/model/cliente.model';
+import { ClienteService } from 'src/app/shared/services/cliente.service';
+import { PedidoService } from 'src/app/shared/services/pedido.service';
 import { PedidoItemsComponent } from '../pedido-items/pedido-items.component';
 
 @Component({

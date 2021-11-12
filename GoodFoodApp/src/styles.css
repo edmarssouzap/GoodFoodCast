@@ -13,7 +13,9 @@ html, body {
   background-color: #212121;
 }
 
+/* O overflow-x retira a barra horizontal de scroll inferior das telas da aplicacao */
 body {
+  overflow-x: hidden;
   margin: 0;
   font-family: Roboto, "Helvetica Neue", sans-serif;
 }

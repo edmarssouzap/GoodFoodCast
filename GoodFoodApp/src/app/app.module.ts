@@ -15,7 +15,7 @@ import { LoginComponent } from './login/login.component';
 import { NotFoundComponent } from './not-found/not-found.component';
 import { CadastroclienteComponent } from './cadastrocliente/cadastrocliente.component';
 import { CadastroempregadoComponent } from './cadastroempregado/cadastroempregado.component';
-import { LoginService } from './shared/login.service';
+import { LoginService } from './shared/services/login.service';
 
 @NgModule({
   declarations: [

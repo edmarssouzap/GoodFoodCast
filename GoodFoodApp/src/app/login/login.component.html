@@ -3,14 +3,15 @@
     <div class="col-md-6">
       <div class="card">
 
-       <!--<form onsubmit="event.preventDefault()" class="box" (submit)="validationLogin()"> -->
-        <form class="box">
+        <form (ngSubmit)="onSubmit()" #form="ngForm" class="box">
           <p class="h1">Login</p>
           <p class="text-muted"> Por favor insira seu login e senha!</p>
 
-          <input [(ngModel)]="loginModel.usuario" type="text" name="" placeholder="Login">
-          <input [(ngModel)]="loginModel.senha" type="password" name="" placeholder="Senha">
-          <button type="submit" name="action" (click)="loginSubmit()" routerLink="/pedido">Login</button>
+          <input [(ngModel)]="login.usuario" type="text" name="usuario" id="usuario" placeholder="Login" required />
+          <input [(ngModel)]="login.senha" type="password" name="senha" id="senha" placeholder="Senha" required/>
+
+          <!-- [disabled]="form.form.invalid" mantem o botao de Acessar desabilitado enquanto todos os campos nao seja preenchido -->
+          <button type="submit" name="action" [disabled]="form.form.invalid">Acessar</button>
 
           <!-- Icones para as redes sociais -->
           <div class="col-md-12">

@@ -1,9 +1,10 @@
+import { AuthGuard } from './shared/guard/auth.guard';
 import { CadastroempregadoComponent } from './cadastroempregado/cadastroempregado.component';
 import { CadastroclienteComponent } from './cadastrocliente/cadastrocliente.component';
 import { NotFoundComponent } from './not-found/not-found.component';
 import { LoginComponent } from './login/login.component';
 import { NgModule } from '@angular/core';
-import { RouterModule, Routes } from '@angular/router';
+import { RouterModule, Routes, CanActivate } from '@angular/router';
 import { PedidoComponent } from './pedidos/pedido/pedido.component';
 import { PedidosComponent } from './pedidos/pedidos.component';
 
@@ -12,14 +13,14 @@ const routes: Routes = [
 
   { path: 'login', component: LoginComponent }, // Tela de login
 
-  { path: 'pedidos', component: PedidosComponent },
+  { path: 'pedidos', component: PedidosComponent, canActivate:[AuthGuard] },
 
-  { path: 'cliente', component: CadastroclienteComponent },
+  { path: 'cliente', component: CadastroclienteComponent, canActivate:[AuthGuard] },
 
-  { path: 'empregado', component: CadastroempregadoComponent },
+  { path: 'empregado', component: CadastroempregadoComponent, canActivate:[AuthGuard]},
 
   {
-    path: 'pedido',
+    path: 'pedido', canActivate:[AuthGuard],
     children:
     [
       { path: '', component: PedidoComponent }, // - /pedido
